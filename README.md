@@ -35,7 +35,7 @@ In browser navigate to *red.html*. If it works, *green.html* should be displayed
 
 > Note, we are configuring the server, this isn't PHP. 
 
-Open you copy of the front controller example we looked at in last week's seminar. Or download a copy from https://github.com/CIT2318/front-controller (make sure you down load the final version - it's called *front-controller*)
+Open your copy of the front controller example we looked at in last week's seminar. Or download a copy from https://github.com/CIT2318/htaccess-file.
 
 Add a *.htaccess* file in the same folder as *index.php*. Add the following rewrite rule:
 ```
